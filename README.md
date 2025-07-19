@@ -1,10 +1,13 @@
-Commit 1 line
-Commit 2 line
-Commit 3 line
-Commit 4 line
-Commit 5 line
-Commit 6 line
-Commit 7 line
-Commit 8 line
-Commit 9 line
-Commit 10 line
+# Nova Project 🚀
+
+A personal Git project with meaningful commit history — built to demonstrate clean commit structuring, Git usage, and modular editing over time.
+
+---
+
+## 📁 Project Structure
+
+```bash
+my-project/
+├── README.md       # This file
+├── .git/           # Git version control directory
+└── ...             # Your future project files
